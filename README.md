@@ -2,6 +2,7 @@
 
 Projeto desenvolvido em **Power BI** com foco na análise de desempenho comercial, permitindo acompanhar indicadores estratégicos e apoiar a tomada de decisão por meio da análise de dados.
 
+![Capa](images/capa.png)
 ---
 
 ## 🎯 Objetivo do Projeto
