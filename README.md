@@ -34,7 +34,9 @@ Desenvolver um dashboard executivo para acompanhar a performance comercial, cons
 
 ## 📷 Dashboard
 
-> Em breve serão adicionadas imagens e um vídeo demonstrando a navegação pelo dashboard.
+🎥 **Vídeo de demonstração**
+
+[▶ Assistir ao vídeo](./video-dashboard-performance-comercial.mp4)
 
 ---
 
