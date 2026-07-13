@@ -39,6 +39,21 @@ Desenvolver um dashboard executivo para acompanhar a performance comercial, cons
 
 [▶ Assistir ao vídeo](./video-dashboard-performance-comercial.mp4)
 
+## 📊 Visão Executiva
+
+![Visão Executiva](images/visao-executiva.png)
+
+---
+
+## 📈 Performance Comercial
+
+![Performance Comercial](images/performance-comercial.png)
+
+---
+
+## 📦 Mix de Produtos
+
+![Mix de Produtos](images/mix-produtos.png)
 ---
 
 ## 📚 Principais Aprendizados
